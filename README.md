@@ -16,6 +16,7 @@ The codes to process and analyze FASTQ files obtained from standard ribosome pro
 
 ### Data processing and analyses
 * RRF_DP_Skewer_Bowtie_Density_RPKM - linker trimming, chromsome mapping, and calculation of RPMs and RPKMs
+* rrf_CDS.csv - contains RPKM, RPC (read per codon), read counts from each library
 * RRF_DA_makeCSV - makes a spreadsheet of reads and RPKMs
 * RRF_DA_3UTRscore - calculates 3UTR scores 
 * RRF_DA_AGP - creates average gene plots on stop codons
